@@ -47,3 +47,6 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# Clear Raw Data
+pedestrian_traffic_data/
